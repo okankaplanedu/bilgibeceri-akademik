@@ -1,0 +1,30 @@
+{
+  "title": "Understanding College Students' Phone Call Behaviors Towards a Sustainable Mobile Health and Wellbeing Solution",
+  "authors": "Yugyeong Kim; Sudip Vhaduri; Christian Poellabauer",
+  "year": "2020",
+  "doi": "",
+  "source_url": "https://arxiv.org/abs/2011.06007v1",
+  "provider_id": "http://arxiv.org/abs/2011.06007v1",
+  "arxiv_id": "2011.06007v1",
+  "provider_key": "arxiv",
+  "provider": "arXiv",
+  "venue": "arXiv",
+  "work_type": "preprint",
+  "category_id": "saglik",
+  "category": "Sağlık & Yaşam",
+  "context": "sağlık bilimleri ve yaşam üzerine çalışmalar",
+  "query": "health wellbeing",
+  "tokens": [
+    "health",
+    "wellbeing",
+    "medicine"
+  ],
+  "created_at": "2026-10-29T02:46:15.396Z",
+  "dedup_keys": [
+    "arxiv:2011.06007",
+    "source:arxiv:http://arxiv.org/abs/2011.06007v1",
+    "title:4cf4775796a951dd3943c8bf"
+  ],
+  "id": "f5353500db42",
+  "path": "/arsiv/understanding-college-students-phone-call-behaviors-towards-f5353500db42/default.asp"
+}

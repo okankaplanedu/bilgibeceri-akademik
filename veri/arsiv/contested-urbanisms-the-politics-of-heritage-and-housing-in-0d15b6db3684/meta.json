@@ -1,0 +1,30 @@
+{
+  "title": "Contested urbanisms: The politics of heritage and housing in Jakarta’s kampungs",
+  "authors": "Binte Masron, Irna Nurlina",
+  "year": "2027",
+  "doi": "10.18743/pub.00056687",
+  "source_url": "https://doi.org/10.18743/pub.00056687",
+  "provider_id": "https://openalex.org/W7116109956",
+  "arxiv_id": "",
+  "provider_key": "openalex",
+  "provider": "OpenAlex",
+  "venue": "BIROn (Birkbeck, University of London)",
+  "work_type": "dissertation",
+  "category_id": "cevre",
+  "category": "Çevre & Sürdürülebilirlik",
+  "context": "iklim, çevre ve sürdürülebilirlik araştırmaları",
+  "query": "climate environment",
+  "tokens": [
+    "climate",
+    "environment",
+    "sustainability"
+  ],
+  "created_at": "2026-10-29T02:46:19.364Z",
+  "dedup_keys": [
+    "doi:10.18743/pub.00056687",
+    "source:openalex:https://openalex.org/w7116109956",
+    "title:750da5458beb407cce36a7ce"
+  ],
+  "id": "0d15b6db3684",
+  "path": "/arsiv/contested-urbanisms-the-politics-of-heritage-and-housing-in-0d15b6db3684/default.asp"
+}

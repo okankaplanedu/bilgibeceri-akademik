@@ -1,0 +1,30 @@
+{
+  "title": "Factors influencing implementation of an integrated care pathway for at risk infants under 6 months and their mothers in Ethiopia",
+  "authors": "Marie McGrath",
+  "year": "2027",
+  "doi": "10.17037/pubs.04681612",
+  "source_url": "https://doi.org/10.17037/pubs.04681612",
+  "provider_id": "https://openalex.org/W7147115502",
+  "arxiv_id": "",
+  "provider_key": "openalex",
+  "provider": "OpenAlex",
+  "venue": "LSHTM Research Online (London School of Hygiene and Tropical Medicine)",
+  "work_type": "dissertation",
+  "category_id": "saglik",
+  "category": "Sağlık & Yaşam",
+  "context": "sağlık bilimleri ve yaşam üzerine çalışmalar",
+  "query": "health wellbeing",
+  "tokens": [
+    "health",
+    "wellbeing",
+    "medicine"
+  ],
+  "created_at": "2026-10-29T02:46:13.481Z",
+  "dedup_keys": [
+    "doi:10.17037/pubs.04681612",
+    "source:openalex:https://openalex.org/w7147115502",
+    "title:bc7dc090496ab1ddb010f25d"
+  ],
+  "id": "e5888732cba2",
+  "path": "/arsiv/factors-influencing-implementation-of-an-integrated-care-pat-e5888732cba2/default.asp"
+}

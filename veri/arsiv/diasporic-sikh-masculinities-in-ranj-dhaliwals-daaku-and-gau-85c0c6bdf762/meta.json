@@ -1,0 +1,30 @@
+{
+  "title": "Diasporic Sikh masculinities in Ranj Dhaliwal’s \"Daaku\" and Gautam Malkani’s \"Londonstani\"",
+  "authors": "Kiran Kaur Sunar",
+  "year": "2027",
+  "doi": "10.14288/1.0105084",
+  "source_url": "https://doi.org/10.14288/1.0105084",
+  "provider_id": "https://openalex.org/W2267749424",
+  "arxiv_id": "",
+  "provider_key": "openalex",
+  "provider": "OpenAlex",
+  "venue": "cIRcle (University of British Columbia)",
+  "work_type": "dissertation",
+  "category_id": "toplum",
+  "category": "Toplum & Kültür",
+  "context": "toplum, kültür ve beşerî bilimler araştırmaları",
+  "query": "society culture",
+  "tokens": [
+    "society",
+    "culture",
+    "social science"
+  ],
+  "created_at": "2026-10-29T02:46:40.644Z",
+  "dedup_keys": [
+    "doi:10.14288/1.0105084",
+    "source:openalex:https://openalex.org/w2267749424",
+    "title:e5baaf9583c6f2fb745c60fe"
+  ],
+  "id": "85c0c6bdf762",
+  "path": "/arsiv/diasporic-sikh-masculinities-in-ranj-dhaliwals-daaku-and-gau-85c0c6bdf762/default.asp"
+}

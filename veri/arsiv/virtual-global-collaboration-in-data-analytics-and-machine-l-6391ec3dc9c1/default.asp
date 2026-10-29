@@ -1,0 +1,49 @@
+<%@ LANGUAGE="VBSCRIPT" CODEPAGE="65001" %><%
+Option Explicit
+Response.CodePage = 65001
+Response.Charset = "utf-8"
+Response.AddHeader "Link", "<https://bilgibeceri.com/arsiv/virtual-global-collaboration-in-data-analytics-and-machine-l-6391ec3dc9c1/default.asp>; rel=""canonical"""
+Dim bbKind, bbTitle, bbCategory, bbCategoryId, bbYear, bbAuthors, bbProvider, bbSourceUrl, bbDoi, bbVenue, bbCreated, bbQuery, bbRecordId, bbP1, bbP2, bbP3, bbDescription
+bbKind = "article"
+bbTitle = "Virtual Global Collaboration in Data Analytics and Machine L"
+bbTitle = bbTitle & "earning Education: A Mixed-Methods Study of Asynchronous Cro"
+bbTitle = bbTitle & "ss-Border Teamwork"
+bbCategory = "Eğitim & Öğrenme"
+bbCategoryId = "egitim"
+bbYear = "2026"
+bbAuthors = "Sehrish Basir Nizamani; Saad Nizamani; Khyati Goyal; Sarwat "
+bbAuthors = bbAuthors & "Nizamani; Zannah Zeiw"
+bbProvider = "arXiv"
+bbSourceUrl = "https://arxiv.org/abs/2610.01147v1"
+bbDoi = ""
+bbVenue = "arXiv"
+bbCreated = "2026-10-29T02:46:03.778Z"
+bbQuery = "learning education"
+bbRecordId = "6391ec3dc9c1"
+bbP1 = "“Virtual Global Collaboration in Data Analytics and Machine "
+bbP1 = bbP1 & "Learning Education: A Mixed-Methods Study of Asynchronous Cr"
+bbP1 = bbP1 & "oss-Border Teamwork” başlıklı yayın, öğrenme süreçleri ve eğ"
+bbP1 = bbP1 & "itim araştırmaları bağlamındaki kaynak taramasında listelenm"
+bbP1 = bbP1 & "iştir. Kayıt, “learning education” arama ifadesi kullanılara"
+bbP1 = bbP1 & "k arXiv üzerinden bulunmuştur."
+bbP2 = "Künye bilgilerine göre yazarlar: Sehrish Basir Nizamani; Saa"
+bbP2 = bbP2 & "d Nizamani; Khyati Goyal; Sarwat Nizamani; Zannah Zeiw. Yayı"
+bbP2 = bbP2 & "n yılı: 2026. Yayın yeri veya dizin: arXiv. Bu kayıtta bir D"
+bbP2 = bbP2 & "OI tanımlayıcısı bulunmamaktadır."
+bbP3 = "Bu sayfa Eğitim & Öğrenme kategorisinde keşif ve kaynak göst"
+bbP3 = bbP3 & "erme amacıyla hazırlanmış otomatik bir bibliyografik kayıttı"
+bbP3 = bbP3 & "r. Kategorinin tarama anahtarları arasında learning, educati"
+bbP3 = bbP3 & "on, teaching yer alır. Çalışmanın yöntemi, örneklemi ve bulg"
+bbP3 = bbP3 & "uları bu künye üzerinden çıkarılamaz; akademik kullanım önce"
+bbP3 = bbP3 & "sinde özgün yayını ve kaynak koşullarını inceleyin."
+bbDescription = "Eğitim & Öğrenme alanında Virtual Global Collaboration in Da"
+bbDescription = bbDescription & "ta Analytics and Machine Learning Education: A Mixed-Methods"
+bbDescription = bbDescription & " Study of Asynchronous Cross-Border Teamwork başlıklı kaynak"
+bbDescription = bbDescription & " kaydı."
+%>
+<!--#include virtual="/head.asp" -->
+<!--#include virtual="/header.asp" -->
+<!--#include virtual="/asie.asp" -->
+<!--#include virtual="/center.asp" -->
+<!--#include virtual="/shorts.asp" -->
+<!--#include virtual="/footer.asp" -->

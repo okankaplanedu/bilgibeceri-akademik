@@ -1,0 +1,30 @@
+{
+  "title": "Renewable Energy Champions Initiative",
+  "authors": "REN21",
+  "year": "2027",
+  "doi": "10.5281/zenodo.23598006",
+  "source_url": "https://doi.org/10.5281/zenodo.23598006",
+  "provider_id": "https://openalex.org/W7223416400",
+  "arxiv_id": "",
+  "provider_key": "openalex",
+  "provider": "OpenAlex",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "work_type": "article",
+  "category_id": "cevre",
+  "category": "Çevre & Sürdürülebilirlik",
+  "context": "iklim, çevre ve sürdürülebilirlik araştırmaları",
+  "query": "climate environment",
+  "tokens": [
+    "climate",
+    "environment",
+    "sustainability"
+  ],
+  "created_at": "2026-10-29T02:46:19.364Z",
+  "dedup_keys": [
+    "doi:10.5281/zenodo.23598006",
+    "source:openalex:https://openalex.org/w7223416400",
+    "title:00bb3823f6dc5fac8b815864"
+  ],
+  "id": "4c703f097705",
+  "path": "/arsiv/renewable-energy-champions-initiative-4c703f097705/default.asp"
+}

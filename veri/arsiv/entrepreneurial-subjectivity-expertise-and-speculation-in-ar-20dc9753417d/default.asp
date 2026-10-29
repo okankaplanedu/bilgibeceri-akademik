@@ -1,0 +1,49 @@
+<%@ LANGUAGE="VBSCRIPT" CODEPAGE="65001" %><%
+Option Explicit
+Response.CodePage = 65001
+Response.Charset = "utf-8"
+Response.AddHeader "Link", "<https://bilgibeceri.com/arsiv/entrepreneurial-subjectivity-expertise-and-speculation-in-ar-20dc9753417d/default.asp>; rel=""canonical"""
+Dim bbKind, bbTitle, bbCategory, bbCategoryId, bbYear, bbAuthors, bbProvider, bbSourceUrl, bbDoi, bbVenue, bbCreated, bbQuery, bbRecordId, bbP1, bbP2, bbP3, bbDescription
+bbKind = "article"
+bbTitle = "Entrepreneurial subjectivity, expertise, and speculation in "
+bbTitle = bbTitle & "artificial intelligence start-ups in Taipei, Taiwan"
+bbCategory = "Teknoloji & Yapay Zekâ"
+bbCategoryId = "teknoloji"
+bbYear = "2027"
+bbAuthors = "Stahl, Laura A."
+bbProvider = "OpenAlex"
+bbSourceUrl = "https://doi.org/10.21953/lse.00004965"
+bbDoi = "10.21953/lse.00004965"
+bbVenue = "London School of Economics and Political Science Theses Onli"
+bbVenue = bbVenue & "ne (London School of Economics and Political Science)"
+bbCreated = "2026-10-29T02:46:07.580Z"
+bbQuery = "artificial intelligence technology"
+bbRecordId = "20dc9753417d"
+bbP1 = "“Entrepreneurial subjectivity, expertise, and speculation in"
+bbP1 = bbP1 & " artificial intelligence start-ups in Taipei, Taiwan” başlık"
+bbP1 = bbP1 & "lı yayın, teknoloji, hesaplama ve yapay zekâ araştırmaları b"
+bbP1 = bbP1 & "ağlamındaki kaynak taramasında listelenmiştir. Kayıt, “artif"
+bbP1 = bbP1 & "icial intelligence technology” arama ifadesi kullanılarak Op"
+bbP1 = bbP1 & "enAlex üzerinden bulunmuştur."
+bbP2 = "Künye bilgilerine göre yazarlar: Stahl, Laura A.. Yayın yılı"
+bbP2 = bbP2 & ": 2027. Yayın yeri veya dizin: London School of Economics an"
+bbP2 = bbP2 & "d Political Science Theses Online (London School of Economic"
+bbP2 = bbP2 & "s and Political Science). Dijital nesne tanımlayıcısı: 10.21"
+bbP2 = bbP2 & "953/lse.00004965."
+bbP3 = "Bu sayfa Teknoloji & Yapay Zekâ kategorisinde keşif ve kayna"
+bbP3 = bbP3 & "k gösterme amacıyla hazırlanmış otomatik bir bibliyografik k"
+bbP3 = bbP3 & "ayıttır. Kategorinin tarama anahtarları arasında artificial "
+bbP3 = bbP3 & "intelligence, technology, computing yer alır. Çalışmanın yön"
+bbP3 = bbP3 & "temi, örneklemi ve bulguları bu künye üzerinden çıkarılamaz;"
+bbP3 = bbP3 & " akademik kullanım öncesinde özgün yayını ve kaynak koşullar"
+bbP3 = bbP3 & "ını inceleyin."
+bbDescription = "Teknoloji & Yapay Zekâ alanında Entrepreneurial subjectivity"
+bbDescription = bbDescription & ", expertise, and speculation in artificial intelligence star"
+bbDescription = bbDescription & "t-ups in Taipei, Taiwan başlıklı kaynak kaydı."
+%>
+<!--#include virtual="/head.asp" -->
+<!--#include virtual="/header.asp" -->
+<!--#include virtual="/asie.asp" -->
+<!--#include virtual="/center.asp" -->
+<!--#include virtual="/shorts.asp" -->
+<!--#include virtual="/footer.asp" -->

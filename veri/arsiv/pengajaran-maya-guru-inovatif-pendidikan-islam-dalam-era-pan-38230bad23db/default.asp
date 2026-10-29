@@ -1,0 +1,50 @@
+<%@ LANGUAGE="VBSCRIPT" CODEPAGE="65001" %><%
+Option Explicit
+Response.CodePage = 65001
+Response.Charset = "utf-8"
+Response.AddHeader "Link", "<https://bilgibeceri.com/arsiv/pengajaran-maya-guru-inovatif-pendidikan-islam-dalam-era-pan-38230bad23db/default.asp>; rel=""canonical"""
+Dim bbKind, bbTitle, bbCategory, bbCategoryId, bbYear, bbAuthors, bbProvider, bbSourceUrl, bbDoi, bbVenue, bbCreated, bbQuery, bbRecordId, bbP1, bbP2, bbP3, bbDescription
+bbKind = "article"
+bbTitle = "PENGAJARAN MAYA GURU INOVATIF PENDIDIKAN ISLAM DALAM ERA PAN"
+bbTitle = bbTitle & "DEMIK COVID-19 VIRTUAL TEACHING OF INNOVATIVE ISLAMIC EDUCAT"
+bbTitle = bbTitle & "ION TEACHERS IN THE COVID-19 PANDEMIC ERA"
+bbCategory = "Eğitim & Öğrenme"
+bbCategoryId = "egitim"
+bbYear = "2121"
+bbAuthors = "Nursafra Mohd Zhaffar; Wan Ali Akbar Wan Abdullah; Khadijah "
+bbAuthors = bbAuthors & "Abdul Razak; Mohd Isa Hamzah (Author)"
+bbProvider = "Crossref"
+bbSourceUrl = "https://doi.org/10.22452/jier.vol7sp2021.4"
+bbDoi = "10.22452/jier.vol7sp2021.4"
+bbVenue = "Journal of Islamic Education"
+bbCreated = "2026-10-29T02:46:02.881Z"
+bbQuery = "learning education"
+bbRecordId = "38230bad23db"
+bbP1 = "“PENGAJARAN MAYA GURU INOVATIF PENDIDIKAN ISLAM DALAM ERA PA"
+bbP1 = bbP1 & "NDEMIK COVID-19 VIRTUAL TEACHING OF INNOVATIVE ISLAMIC EDUCA"
+bbP1 = bbP1 & "TION TEACHERS IN THE COVID-19 PANDEMIC ERA” başlıklı yayın, "
+bbP1 = bbP1 & "öğrenme süreçleri ve eğitim araştırmaları bağlamındaki kayna"
+bbP1 = bbP1 & "k taramasında listelenmiştir. Kayıt, “learning education” ar"
+bbP1 = bbP1 & "ama ifadesi kullanılarak Crossref üzerinden bulunmuştur."
+bbP2 = "Künye bilgilerine göre yazarlar: Nursafra Mohd Zhaffar; Wan "
+bbP2 = bbP2 & "Ali Akbar Wan Abdullah; Khadijah Abdul Razak; Mohd Isa Hamza"
+bbP2 = bbP2 & "h (Author). Yayın yılı: 2121. Yayın yeri veya dizin: Journal"
+bbP2 = bbP2 & " of Islamic Education. Dijital nesne tanımlayıcısı: 10.22452"
+bbP2 = bbP2 & "/jier.vol7sp2021.4."
+bbP3 = "Bu sayfa Eğitim & Öğrenme kategorisinde keşif ve kaynak göst"
+bbP3 = bbP3 & "erme amacıyla hazırlanmış otomatik bir bibliyografik kayıttı"
+bbP3 = bbP3 & "r. Kategorinin tarama anahtarları arasında learning, educati"
+bbP3 = bbP3 & "on, teaching yer alır. Çalışmanın yöntemi, örneklemi ve bulg"
+bbP3 = bbP3 & "uları bu künye üzerinden çıkarılamaz; akademik kullanım önce"
+bbP3 = bbP3 & "sinde özgün yayını ve kaynak koşullarını inceleyin."
+bbDescription = "Eğitim & Öğrenme alanında PENGAJARAN MAYA GURU INOVATIF PEND"
+bbDescription = bbDescription & "IDIKAN ISLAM DALAM ERA PANDEMIK COVID-19 VIRTUAL TEACHING OF"
+bbDescription = bbDescription & " INNOVATIVE ISLAMIC EDUCATION TEACHERS IN THE COVID-19 PANDE"
+bbDescription = bbDescription & "MIC ERA başlıklı kaynak kaydı."
+%>
+<!--#include virtual="/head.asp" -->
+<!--#include virtual="/header.asp" -->
+<!--#include virtual="/asie.asp" -->
+<!--#include virtual="/center.asp" -->
+<!--#include virtual="/shorts.asp" -->
+<!--#include virtual="/footer.asp" -->

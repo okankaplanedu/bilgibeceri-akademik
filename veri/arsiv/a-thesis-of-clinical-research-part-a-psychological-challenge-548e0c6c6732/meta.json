@@ -1,0 +1,30 @@
+{
+  "title": "A Thesis of Clinical Research: Part A: Psychological Challenges, Wellbeing, and Quality of Life in People with Type 1 Diabetes During Pregnancy: A Scoping Review of the Literature; Part B: A Longitudinal Diary Study Exploring the Lived Experiences of People with Type 1 Diabetes During Pregnancy: An Interpretative Phenomenological Analysis; Part C: Summary of Clinical Practice and Assessments.",
+  "authors": "Zoe Richardson-Day",
+  "year": "2027",
+  "doi": "10.15126/thesis.902155",
+  "source_url": "https://doi.org/10.15126/thesis.902155",
+  "provider_id": "https://openalex.org/W7215093985",
+  "arxiv_id": "",
+  "provider_key": "openalex",
+  "provider": "OpenAlex",
+  "venue": "University of Surrey Open Research repository",
+  "work_type": "dissertation",
+  "category_id": "saglik",
+  "category": "Sağlık & Yaşam",
+  "context": "sağlık bilimleri ve yaşam üzerine çalışmalar",
+  "query": "health wellbeing",
+  "tokens": [
+    "health",
+    "wellbeing",
+    "medicine"
+  ],
+  "created_at": "2026-10-29T02:46:13.480Z",
+  "dedup_keys": [
+    "doi:10.15126/thesis.902155",
+    "source:openalex:https://openalex.org/w7215093985",
+    "title:1fea0419ff72e28d7d641c19"
+  ],
+  "id": "548e0c6c6732",
+  "path": "/arsiv/a-thesis-of-clinical-research-part-a-psychological-challenge-548e0c6c6732/default.asp"
+}

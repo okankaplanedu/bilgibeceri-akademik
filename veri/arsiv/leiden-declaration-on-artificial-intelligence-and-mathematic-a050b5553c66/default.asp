@@ -1,0 +1,52 @@
+<%@ LANGUAGE="VBSCRIPT" CODEPAGE="65001" %><%
+Option Explicit
+Response.CodePage = 65001
+Response.Charset = "utf-8"
+Response.AddHeader "Link", "<https://bilgibeceri.com/arsiv/leiden-declaration-on-artificial-intelligence-and-mathematic-a050b5553c66/default.asp>; rel=""canonical"""
+Dim bbKind, bbTitle, bbCategory, bbCategoryId, bbYear, bbAuthors, bbProvider, bbSourceUrl, bbDoi, bbVenue, bbCreated, bbQuery, bbRecordId, bbP1, bbP2, bbP3, bbDescription
+bbKind = "article"
+bbTitle = "Leiden Declaration on Artificial Intelligence and Mathematic"
+bbTitle = bbTitle & "s"
+bbCategory = "Teknoloji & Yapay Zekâ"
+bbCategoryId = "teknoloji"
+bbYear = "2026"
+bbAuthors = "Jarod Alper; Michael Barany; Alain Chavarri Villarello; Sand"
+bbAuthors = bbAuthors & "er Dahmen; Walter Dean; Karthik Ganapathy; Michael Harris; D"
+bbAuthors = bbAuthors & "avid Holmes; Mateja Jamnik; Steven Kelk; Bryna Kra; Ursula M"
+bbAuthors = bbAuthors & "artin; Bartosz Naskręcki; Rodrigo Ochigame; Jim Portegies; J"
+bbAuthors = bbAuthors & "ohannes Schmitt"
+bbProvider = "arXiv"
+bbSourceUrl = "https://doi.org/10.5281/zenodo.20302944"
+bbDoi = "10.5281/zenodo.20302944"
+bbVenue = "arXiv"
+bbCreated = "2026-10-29T02:46:09.368Z"
+bbQuery = "artificial intelligence technology"
+bbRecordId = "a050b5553c66"
+bbP1 = "“Leiden Declaration on Artificial Intelligence and Mathemati"
+bbP1 = bbP1 & "cs” başlıklı yayın, teknoloji, hesaplama ve yapay zekâ araşt"
+bbP1 = bbP1 & "ırmaları bağlamındaki kaynak taramasında listelenmiştir. Kay"
+bbP1 = bbP1 & "ıt, “artificial intelligence technology” arama ifadesi kulla"
+bbP1 = bbP1 & "nılarak arXiv üzerinden bulunmuştur."
+bbP2 = "Künye bilgilerine göre yazarlar: Jarod Alper; Michael Barany"
+bbP2 = bbP2 & "; Alain Chavarri Villarello; Sander Dahmen; Walter Dean; Kar"
+bbP2 = bbP2 & "thik Ganapathy; Michael Harris; David Holmes; Mateja Jamnik;"
+bbP2 = bbP2 & " Steven Kelk; Bryna Kra; Ursula Martin; Bartosz Naskręcki; R"
+bbP2 = bbP2 & "odrigo Ochigame; Jim Portegies; Johannes Schmitt. Yayın yılı"
+bbP2 = bbP2 & ": 2026. Yayın yeri veya dizin: arXiv. Dijital nesne tanımlay"
+bbP2 = bbP2 & "ıcısı: 10.5281/zenodo.20302944."
+bbP3 = "Bu sayfa Teknoloji & Yapay Zekâ kategorisinde keşif ve kayna"
+bbP3 = bbP3 & "k gösterme amacıyla hazırlanmış otomatik bir bibliyografik k"
+bbP3 = bbP3 & "ayıttır. Kategorinin tarama anahtarları arasında artificial "
+bbP3 = bbP3 & "intelligence, technology, computing yer alır. Çalışmanın yön"
+bbP3 = bbP3 & "temi, örneklemi ve bulguları bu künye üzerinden çıkarılamaz;"
+bbP3 = bbP3 & " akademik kullanım öncesinde özgün yayını ve kaynak koşullar"
+bbP3 = bbP3 & "ını inceleyin."
+bbDescription = "Teknoloji & Yapay Zekâ alanında Leiden Declaration on Artifi"
+bbDescription = bbDescription & "cial Intelligence and Mathematics başlıklı kaynak kaydı."
+%>
+<!--#include virtual="/head.asp" -->
+<!--#include virtual="/header.asp" -->
+<!--#include virtual="/asie.asp" -->
+<!--#include virtual="/center.asp" -->
+<!--#include virtual="/shorts.asp" -->
+<!--#include virtual="/footer.asp" -->

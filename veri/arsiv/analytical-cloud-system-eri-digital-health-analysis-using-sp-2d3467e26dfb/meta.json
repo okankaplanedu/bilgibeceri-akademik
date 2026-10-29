@@ -1,0 +1,30 @@
+{
+  "title": "ANALYTICAL CLOUD SYSTEM ERI Digital health analysis using Spectral analysis in AI",
+  "authors": "Elena van Dijk",
+  "year": "2121",
+  "doi": "10.47363/jeast/2021/vid/1006",
+  "source_url": "https://doi.org/10.47363/jeast/2021/vid/1006",
+  "provider_id": "10.47363/jeast/2021/vid/1006",
+  "arxiv_id": "",
+  "provider_key": "crossref",
+  "provider": "Crossref",
+  "venue": "Journal of Engineering and Applied Sciences Technology",
+  "work_type": "journal-article",
+  "category_id": "teknoloji",
+  "category": "Teknoloji & Yapay Zekâ",
+  "context": "teknoloji, hesaplama ve yapay zekâ araştırmaları",
+  "query": "artificial intelligence technology",
+  "tokens": [
+    "artificial intelligence",
+    "technology",
+    "computing"
+  ],
+  "created_at": "2026-10-29T02:46:08.466Z",
+  "dedup_keys": [
+    "doi:10.47363/jeast/2021/vid/1006",
+    "source:crossref:10.47363/jeast/2021/vid/1006",
+    "title:745af18bd212a580e98e01e2"
+  ],
+  "id": "2d3467e26dfb",
+  "path": "/arsiv/analytical-cloud-system-eri-digital-health-analysis-using-sp-2d3467e26dfb/default.asp"
+}

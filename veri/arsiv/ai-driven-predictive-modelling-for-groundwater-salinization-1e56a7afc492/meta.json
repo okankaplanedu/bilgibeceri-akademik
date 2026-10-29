@@ -1,0 +1,30 @@
+{
+  "title": "AI-Driven Predictive Modelling for Groundwater Salinization in Israel",
+  "authors": "Laxmi Pandey; Ariel Meroz; Ben Cheng; Ankita Manekar; Abhijit Mukherjee; Meirav Cohen; Adway Mitra",
+  "year": "2026",
+  "doi": "",
+  "source_url": "https://arxiv.org/abs/2602.07478v1",
+  "provider_id": "http://arxiv.org/abs/2602.07478v1",
+  "arxiv_id": "2602.07478v1",
+  "provider_key": "arxiv",
+  "provider": "arXiv",
+  "venue": "arXiv",
+  "work_type": "preprint",
+  "category_id": "cevre",
+  "category": "Çevre & Sürdürülebilirlik",
+  "context": "iklim, çevre ve sürdürülebilirlik araştırmaları",
+  "query": "climate environment",
+  "tokens": [
+    "climate",
+    "environment",
+    "sustainability"
+  ],
+  "created_at": "2026-10-29T02:46:36.755Z",
+  "dedup_keys": [
+    "arxiv:2602.07478",
+    "source:arxiv:http://arxiv.org/abs/2602.07478v1",
+    "title:d062e447bbbf5f229a427a65"
+  ],
+  "id": "1e56a7afc492",
+  "path": "/arsiv/ai-driven-predictive-modelling-for-groundwater-salinization-1e56a7afc492/default.asp"
+}

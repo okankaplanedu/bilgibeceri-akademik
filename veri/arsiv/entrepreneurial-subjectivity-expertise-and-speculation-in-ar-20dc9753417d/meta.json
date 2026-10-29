@@ -1,0 +1,30 @@
+{
+  "title": "Entrepreneurial subjectivity, expertise, and speculation in artificial intelligence start-ups in Taipei, Taiwan",
+  "authors": "Stahl, Laura A.",
+  "year": "2027",
+  "doi": "10.21953/lse.00004965",
+  "source_url": "https://doi.org/10.21953/lse.00004965",
+  "provider_id": "https://openalex.org/W7114805483",
+  "arxiv_id": "",
+  "provider_key": "openalex",
+  "provider": "OpenAlex",
+  "venue": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+  "work_type": "dissertation",
+  "category_id": "teknoloji",
+  "category": "Teknoloji & Yapay Zekâ",
+  "context": "teknoloji, hesaplama ve yapay zekâ araştırmaları",
+  "query": "artificial intelligence technology",
+  "tokens": [
+    "artificial intelligence",
+    "technology",
+    "computing"
+  ],
+  "created_at": "2026-10-29T02:46:07.580Z",
+  "dedup_keys": [
+    "doi:10.21953/lse.00004965",
+    "source:openalex:https://openalex.org/w7114805483",
+    "title:cb8c53a0ec85336885354c8c"
+  ],
+  "id": "20dc9753417d",
+  "path": "/arsiv/entrepreneurial-subjectivity-expertise-and-speculation-in-ar-20dc9753417d/default.asp"
+}

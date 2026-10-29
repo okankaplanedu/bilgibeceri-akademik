@@ -1,0 +1,30 @@
+{
+  "title": "Dataset for Randomized Evaluation of an Interactive SVG Learning Environment Linking Power-Equipment Structures and Technical Terminology in Electrical Engineering Education",
+  "authors": "育智 张",
+  "year": "2027",
+  "doi": "10.17632/kpg848pc84",
+  "source_url": "https://doi.org/10.17632/kpg848pc84",
+  "provider_id": "https://openalex.org/W7204050209",
+  "arxiv_id": "",
+  "provider_key": "openalex",
+  "provider": "OpenAlex",
+  "venue": "Mendeley Data",
+  "work_type": "dataset",
+  "category_id": "egitim",
+  "category": "Eğitim & Öğrenme",
+  "context": "öğrenme süreçleri ve eğitim araştırmaları",
+  "query": "learning education",
+  "tokens": [
+    "learning",
+    "education",
+    "teaching"
+  ],
+  "created_at": "2026-10-29T02:46:01.505Z",
+  "dedup_keys": [
+    "doi:10.17632/kpg848pc84",
+    "source:openalex:https://openalex.org/w7204050209",
+    "title:83df21b3c04ee5b9a74e9dab"
+  ],
+  "id": "d8e76e733660",
+  "path": "/arsiv/dataset-for-randomized-evaluation-of-an-interactive-svg-lear-d8e76e733660/default.asp"
+}

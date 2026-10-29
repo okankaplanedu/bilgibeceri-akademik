@@ -1,0 +1,31 @@
+{
+  "title": "Non-synchronism in Global Usage of Research Methods in Library and Information Science from 1990 to 2019",
+  "authors": "Chengzhi Zhang; Liang Tian",
+  "year": "2026",
+  "doi": "10.1007/s11192-023-04740-3",
+  "source_url": "https://doi.org/10.1007/s11192-023-04740-3",
+  "provider_id": "http://arxiv.org/abs/2607.01833v1",
+  "arxiv_id": "2607.01833v1",
+  "provider_key": "arxiv",
+  "provider": "arXiv",
+  "venue": "arXiv",
+  "work_type": "preprint",
+  "category_id": "toplum",
+  "category": "Toplum & Kültür",
+  "context": "toplum, kültür ve beşerî bilimler araştırmaları",
+  "query": "society culture",
+  "tokens": [
+    "society",
+    "culture",
+    "social science"
+  ],
+  "created_at": "2026-10-29T02:46:42.542Z",
+  "dedup_keys": [
+    "doi:10.1007/s11192-023-04740-3",
+    "arxiv:2607.01833",
+    "source:arxiv:http://arxiv.org/abs/2607.01833v1",
+    "title:d4e6b0c6259e1fed5ad71487"
+  ],
+  "id": "6dac6ec859d9",
+  "path": "/arsiv/non-synchronism-in-global-usage-of-research-methods-in-libra-6dac6ec859d9/default.asp"
+}

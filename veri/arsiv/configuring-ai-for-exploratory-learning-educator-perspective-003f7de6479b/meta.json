@@ -1,0 +1,30 @@
+{
+  "title": "Configuring AI for Exploratory Learning: Educator Perspectives on Inference, Persistence, and Disclosure",
+  "authors": "Si Chen; Xinyue Chen; Artur Mullagaliyev; Alexander Nwanganga; Shifu Hou; Deng Pan; Ronald Metoyer; Sugana Vijay Chawla",
+  "year": "2026",
+  "doi": "",
+  "source_url": "https://arxiv.org/abs/2609.21019v2",
+  "provider_id": "http://arxiv.org/abs/2609.21019v2",
+  "arxiv_id": "2609.21019v2",
+  "provider_key": "arxiv",
+  "provider": "arXiv",
+  "venue": "arXiv",
+  "work_type": "preprint",
+  "category_id": "egitim",
+  "category": "Eğitim & Öğrenme",
+  "context": "öğrenme süreçleri ve eğitim araştırmaları",
+  "query": "learning education",
+  "tokens": [
+    "learning",
+    "education",
+    "teaching"
+  ],
+  "created_at": "2026-10-29T02:46:03.779Z",
+  "dedup_keys": [
+    "arxiv:2609.21019",
+    "source:arxiv:http://arxiv.org/abs/2609.21019v2",
+    "title:33e3c653702bfdd27c957f4c"
+  ],
+  "id": "003f7de6479b",
+  "path": "/arsiv/configuring-ai-for-exploratory-learning-educator-perspective-003f7de6479b/default.asp"
+}
