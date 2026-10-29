@@ -1,0 +1,30 @@
+{
+  "title": "Study-level data for AI-enabled UAV path planning in photovoltaic inspection",
+  "authors": "Amirhossein Asadabadi",
+  "year": "2027",
+  "doi": "10.17632/ww5gm6h8wd",
+  "source_url": "https://doi.org/10.17632/ww5gm6h8wd",
+  "provider_id": "https://openalex.org/W7204096021",
+  "arxiv_id": "",
+  "provider_key": "openalex",
+  "provider": "OpenAlex",
+  "venue": "Mendeley Data",
+  "work_type": "dataset",
+  "category_id": "teknoloji",
+  "category": "Teknoloji & Yapay Zekâ",
+  "context": "teknoloji, hesaplama ve yapay zekâ araştırmaları",
+  "query": "artificial intelligence",
+  "tokens": [
+    "artificial intelligence",
+    "technology",
+    "computing"
+  ],
+  "created_at": "2026-10-28T23:50:07Z",
+  "dedup_keys": [
+    "doi:10.17632/ww5gm6h8wd",
+    "source:openalex:https://openalex.org/w7204096021",
+    "title:2256a97cf0ed0d6085ef2bfd"
+  ],
+  "id": "626338d18d5d",
+  "path": "/arsiv/study-level-data-for-ai-enabled-uav-path-planning-in-photovo-626338d18d5d/default.asp"
+}

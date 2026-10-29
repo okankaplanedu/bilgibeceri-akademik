@@ -1,0 +1,30 @@
+{
+  "title": "Broad-spectrum inhibition of diverse enveloped RNA viruses by the host-directed ZJ-101 analogue series",
+  "authors": "Ruth Hartke; Miao Xu; Soukaina Amniouel; Ha Nam Nguyen; Dorjbal G. Dorjsuren; Shan Qian; Qiu Haibo; Min Zhang; Phillip R. Sanchez; Catherine Chen; TSANYANG Jake Liang; Jun O. Liu; Zhendong Jin; Wei Zheng",
+  "year": "2027",
+  "doi": "10.5281/zenodo.21893337",
+  "source_url": "https://doi.org/10.5281/zenodo.21893337",
+  "provider_id": "https://openalex.org/W7202159008",
+  "arxiv_id": "",
+  "provider_key": "openalex",
+  "provider": "OpenAlex",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "work_type": "dataset",
+  "category_id": "saglik",
+  "category": "Sağlık & Yaşam",
+  "context": "sağlık bilimleri ve yaşam üzerine çalışmalar",
+  "query": "public health",
+  "tokens": [
+    "health",
+    "wellbeing",
+    "medicine"
+  ],
+  "created_at": "2026-10-28T23:50:11Z",
+  "dedup_keys": [
+    "doi:10.5281/zenodo.21893337",
+    "source:openalex:https://openalex.org/w7202159008",
+    "title:cc6387d56960b66ad222b3f5"
+  ],
+  "id": "5195f9c0e7a5",
+  "path": "/arsiv/broad-spectrum-inhibition-of-diverse-enveloped-rna-viruses-b-5195f9c0e7a5/default.asp"
+}

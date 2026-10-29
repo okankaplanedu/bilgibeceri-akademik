@@ -1,0 +1,30 @@
+{
+  "title": "The Assistance Dilemma: Learning to Teach via Multi-Turn Reinforcement Learning",
+  "authors": "Jakub Macina; Manu Kapur; Mrinmaya Sachan",
+  "year": "2026",
+  "doi": "",
+  "source_url": "https://arxiv.org/abs/2610.06446v1",
+  "provider_id": "http://arxiv.org/abs/2610.06446v1",
+  "arxiv_id": "2610.06446v1",
+  "provider_key": "arxiv",
+  "provider": "arXiv",
+  "venue": "arXiv",
+  "work_type": "preprint",
+  "category_id": "egitim",
+  "category": "Eğitim & Öğrenme",
+  "context": "öğrenme süreçleri ve eğitim araştırmaları",
+  "query": "learning sciences",
+  "tokens": [
+    "learning",
+    "education",
+    "teaching"
+  ],
+  "created_at": "2026-10-28T23:50:04Z",
+  "dedup_keys": [
+    "arxiv:2610.06446",
+    "source:arxiv:http://arxiv.org/abs/2610.06446v1",
+    "title:19951ad09c0fe8826abe3822"
+  ],
+  "id": "d115baeafee9",
+  "path": "/arsiv/the-assistance-dilemma-learning-to-teach-via-multi-turn-rein-d115baeafee9/default.asp"
+}

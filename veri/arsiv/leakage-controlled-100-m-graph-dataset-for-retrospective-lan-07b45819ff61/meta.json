@@ -1,0 +1,30 @@
+{
+  "title": "Leakage-Controlled 100 m Graph Dataset for Retrospective Land Surface Temperature Change in the Teesta River Corridor, Bangladesh (2005–2020)",
+  "authors": "Promed Chandra Das",
+  "year": "2027",
+  "doi": "10.17632/6jkjx3tffh",
+  "source_url": "https://doi.org/10.17632/6jkjx3tffh",
+  "provider_id": "https://openalex.org/W7213257572",
+  "arxiv_id": "",
+  "provider_key": "openalex",
+  "provider": "OpenAlex",
+  "venue": "Mendeley Data",
+  "work_type": "dataset",
+  "category_id": "cevre",
+  "category": "Çevre & Sürdürülebilirlik",
+  "context": "iklim, çevre ve sürdürülebilirlik araştırmaları",
+  "query": "climate change",
+  "tokens": [
+    "climate",
+    "environment",
+    "sustainability"
+  ],
+  "created_at": "2026-10-28T23:50:14Z",
+  "dedup_keys": [
+    "doi:10.17632/6jkjx3tffh",
+    "source:openalex:https://openalex.org/w7213257572",
+    "title:596c2bef87126a1d119a710a"
+  ],
+  "id": "07b45819ff61",
+  "path": "/arsiv/leakage-controlled-100-m-graph-dataset-for-retrospective-lan-07b45819ff61/default.asp"
+}

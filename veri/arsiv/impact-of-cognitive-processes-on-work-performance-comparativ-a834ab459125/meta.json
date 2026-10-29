@@ -1,0 +1,30 @@
+{
+  "title": "Impact of cognitive processes on work performance comparative study in teachers of the Cruz del Norte Educational Unit",
+  "authors": "Erick Joel Loor Domo",
+  "year": "2027",
+  "doi": "10.5281/zenodo.18319363",
+  "source_url": "https://doi.org/10.5281/zenodo.18319363",
+  "provider_id": "https://openalex.org/W7143351384",
+  "arxiv_id": "",
+  "provider_key": "openalex",
+  "provider": "OpenAlex",
+  "venue": "Journal of Law and Epistemic Studies",
+  "work_type": "article",
+  "category_id": "teknoloji",
+  "category": "Teknoloji & Yapay Zekâ",
+  "context": "teknoloji, hesaplama ve yapay zekâ araştırmaları",
+  "query": "artificial intelligence",
+  "tokens": [
+    "artificial intelligence",
+    "technology",
+    "computing"
+  ],
+  "created_at": "2026-10-28T23:50:07Z",
+  "dedup_keys": [
+    "doi:10.5281/zenodo.18319363",
+    "source:openalex:https://openalex.org/w7143351384",
+    "title:614993656f9ea9bb9dc470fb"
+  ],
+  "id": "a834ab459125",
+  "path": "/arsiv/impact-of-cognitive-processes-on-work-performance-comparativ-a834ab459125/default.asp"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "MUSE: Revealing Responsiveness Gaps of LLM Tutors on Multiple-Solution Programming Problems",
+  "authors": "Sky Cen; Shashank Sonkar",
+  "year": "2026",
+  "doi": "",
+  "source_url": "https://arxiv.org/abs/2610.36367v1",
+  "provider_id": "http://arxiv.org/abs/2610.36367v1",
+  "arxiv_id": "2610.36367v1",
+  "provider_key": "arxiv",
+  "provider": "arXiv",
+  "venue": "arXiv",
+  "work_type": "preprint",
+  "category_id": "egitim",
+  "category": "Eğitim & Öğrenme",
+  "context": "öğrenme süreçleri ve eğitim araştırmaları",
+  "query": "learning sciences",
+  "tokens": [
+    "learning",
+    "education",
+    "teaching"
+  ],
+  "created_at": "2026-10-28T23:50:04Z",
+  "dedup_keys": [
+    "arxiv:2610.36367",
+    "source:arxiv:http://arxiv.org/abs/2610.36367v1",
+    "title:4a9818a84ecac475f62c004e"
+  ],
+  "id": "af8a51ae8f4c",
+  "path": "/arsiv/muse-revealing-responsiveness-gaps-of-llm-tutors-on-multiple-af8a51ae8f4c/default.asp"
+}

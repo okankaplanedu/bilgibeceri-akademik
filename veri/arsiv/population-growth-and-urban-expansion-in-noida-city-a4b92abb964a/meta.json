@@ -1,0 +1,30 @@
+{
+  "title": "Population Growth and Urban Expansion in Noida City",
+  "authors": "Nazirou Bacar; Malini Prava Sethi",
+  "year": "2027",
+  "doi": "10.5281/zenodo.21477882",
+  "source_url": "https://doi.org/10.5281/zenodo.21477882",
+  "provider_id": "https://openalex.org/W7169849357",
+  "arxiv_id": "",
+  "provider_key": "openalex",
+  "provider": "OpenAlex",
+  "venue": "World Wide Journal of Multidisciplinary Research and Development",
+  "work_type": "article",
+  "category_id": "toplum",
+  "category": "Toplum & Kültür",
+  "context": "toplum, kültür ve beşerî bilimler araştırmaları",
+  "query": "social science",
+  "tokens": [
+    "society",
+    "culture",
+    "social science"
+  ],
+  "created_at": "2026-10-28T23:50:18Z",
+  "dedup_keys": [
+    "doi:10.5281/zenodo.21477882",
+    "source:openalex:https://openalex.org/w7169849357",
+    "title:79a292a76cde30ab69235dfa"
+  ],
+  "id": "a4b92abb964a",
+  "path": "/arsiv/population-growth-and-urban-expansion-in-noida-city-a4b92abb964a/default.asp"
+}

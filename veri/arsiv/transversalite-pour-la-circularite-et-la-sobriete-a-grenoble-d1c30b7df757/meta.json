@@ -1,0 +1,30 @@
+{
+  "title": "Transversalité pour la circularité et la sobriété à Grenoble",
+  "authors": "Valentin Aubois-Liogier; Danijel Baturina; Timothy Marcroft; Laura Nießen",
+  "year": "2027",
+  "doi": "10.5281/zenodo.14763520",
+  "source_url": "https://doi.org/10.5281/zenodo.14763520",
+  "provider_id": "https://openalex.org/W4414739244",
+  "arxiv_id": "",
+  "provider_key": "openalex",
+  "provider": "OpenAlex",
+  "venue": "HAL",
+  "work_type": "report",
+  "category_id": "egitim",
+  "category": "Eğitim & Öğrenme",
+  "context": "öğrenme süreçleri ve eğitim araştırmaları",
+  "query": "learning sciences",
+  "tokens": [
+    "learning",
+    "education",
+    "teaching"
+  ],
+  "created_at": "2026-10-28T23:50:01Z",
+  "dedup_keys": [
+    "doi:10.5281/zenodo.14763520",
+    "source:openalex:https://openalex.org/w4414739244",
+    "title:f680efb9e7374f975ea66b77"
+  ],
+  "id": "d1c30b7df757",
+  "path": "/arsiv/transversalite-pour-la-circularite-et-la-sobriete-a-grenoble-d1c30b7df757/default.asp"
+}

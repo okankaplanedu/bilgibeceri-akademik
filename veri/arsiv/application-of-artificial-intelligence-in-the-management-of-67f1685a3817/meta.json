@@ -1,0 +1,30 @@
+{
+  "title": "Application of Artificial Intelligence in the Management of Climate Change-Related Health Issues in Africa",
+  "authors": "Peter Kokol; Martha Kachweka; Helena Blazun Vosner; Samuel Chol Buol; Jernej Zavrsnik; Bojan Zlahtic; Grega Zlahtic",
+  "year": "2026",
+  "doi": "",
+  "source_url": "https://arxiv.org/abs/2610.35294v1",
+  "provider_id": "http://arxiv.org/abs/2610.35294v1",
+  "arxiv_id": "2610.35294v1",
+  "provider_key": "arxiv",
+  "provider": "arXiv",
+  "venue": "arXiv",
+  "work_type": "preprint",
+  "category_id": "saglik",
+  "category": "Sağlık & Yaşam",
+  "context": "sağlık bilimleri ve yaşam üzerine çalışmalar",
+  "query": "public health",
+  "tokens": [
+    "health",
+    "wellbeing",
+    "medicine"
+  ],
+  "created_at": "2026-10-28T23:50:13Z",
+  "dedup_keys": [
+    "arxiv:2610.35294",
+    "source:arxiv:http://arxiv.org/abs/2610.35294v1",
+    "title:d026cd60312adf2c5adb1c43"
+  ],
+  "id": "67f1685a3817",
+  "path": "/arsiv/application-of-artificial-intelligence-in-the-management-of-67f1685a3817/default.asp"
+}

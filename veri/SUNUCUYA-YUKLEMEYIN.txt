@@ -1,0 +1,1 @@
+Bu klasör GitHub üretim ve kayıt verisidir. Sunucuya doğrudan yüklemeyin. Sadece Actions tarafından oluşturulan kontrollü paketleri kullanın.

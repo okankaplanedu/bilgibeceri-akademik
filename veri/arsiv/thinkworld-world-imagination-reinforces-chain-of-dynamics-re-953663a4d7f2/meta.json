@@ -1,0 +1,30 @@
+{
+  "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+  "authors": "Chaehyun Kim; Chi-Pin Huang; Jisoo Kim; Min-Hung Chen; Yu-Chiang Frank Wang; Seungryong Kim; Fu-En Yang",
+  "year": "2026",
+  "doi": "",
+  "source_url": "https://arxiv.org/abs/2610.37666v1",
+  "provider_id": "http://arxiv.org/abs/2610.37666v1",
+  "arxiv_id": "2610.37666v1",
+  "provider_key": "arxiv",
+  "provider": "arXiv",
+  "venue": "arXiv",
+  "work_type": "preprint",
+  "category_id": "teknoloji",
+  "category": "Teknoloji & Yapay Zekâ",
+  "context": "teknoloji, hesaplama ve yapay zekâ araştırmaları",
+  "query": "artificial intelligence",
+  "tokens": [
+    "artificial intelligence",
+    "technology",
+    "computing"
+  ],
+  "created_at": "2026-10-28T23:50:09Z",
+  "dedup_keys": [
+    "arxiv:2610.37666",
+    "source:arxiv:http://arxiv.org/abs/2610.37666v1",
+    "title:0a7bc927033953ef23d3b91a"
+  ],
+  "id": "953663a4d7f2",
+  "path": "/arsiv/thinkworld-world-imagination-reinforces-chain-of-dynamics-re-953663a4d7f2/default.asp"
+}

@@ -1,0 +1,50 @@
+<%@ LANGUAGE="VBSCRIPT" CODEPAGE="65001" %><%
+Option Explicit
+Response.CodePage = 65001
+Response.Charset = "utf-8"
+Dim bbKind, bbTitle, bbCategory, bbCategoryId, bbYear, bbAuthors, bbProvider, bbSourceUrl, bbDoi, bbVenue, bbCreated, bbQuery, bbRecordId, bbP1, bbP2, bbP3, bbDescription
+bbKind = "article"
+bbTitle = "Broad-spectrum inhibition of diverse enveloped RNA viruses b"
+bbTitle = bbTitle & "y the host-directed ZJ-101 analogue series"
+bbCategory = "Sağlık & Yaşam"
+bbCategoryId = "saglik"
+bbYear = "2027"
+bbAuthors = "Ruth Hartke; Miao Xu; Soukaina Amniouel; Ha Nam Nguyen; Dorj"
+bbAuthors = bbAuthors & "bal G. Dorjsuren; Shan Qian; Qiu Haibo; Min Zhang; Phillip R"
+bbAuthors = bbAuthors & ". Sanchez; Catherine Chen; TSANYANG Jake Liang; Jun O. Liu; "
+bbAuthors = bbAuthors & "Zhendong Jin; Wei Zheng"
+bbProvider = "OpenAlex"
+bbSourceUrl = "https://doi.org/10.5281/zenodo.21893337"
+bbDoi = "10.5281/zenodo.21893337"
+bbVenue = "Zenodo (CERN European Organization for Nuclear Research)"
+bbCreated = "2026-10-28T23:50:11Z"
+bbQuery = "public health"
+bbRecordId = "5195f9c0e7a5"
+bbP1 = "“Broad-spectrum inhibition of diverse enveloped RNA viruses "
+bbP1 = bbP1 & "by the host-directed ZJ-101 analogue series” başlıklı yayın,"
+bbP1 = bbP1 & " sağlık bilimleri ve yaşam üzerine çalışmalar bağlamındaki k"
+bbP1 = bbP1 & "aynak taramasında listelenmiştir. Kayıt, “public health” ara"
+bbP1 = bbP1 & "ma ifadesi kullanılarak OpenAlex üzerinden bulunmuştur."
+bbP2 = "Künye bilgilerine göre yazarlar: Ruth Hartke; Miao Xu; Souka"
+bbP2 = bbP2 & "ina Amniouel; Ha Nam Nguyen; Dorjbal G. Dorjsuren; Shan Qian"
+bbP2 = bbP2 & "; Qiu Haibo; Min Zhang; Phillip R. Sanchez; Catherine Chen; "
+bbP2 = bbP2 & "TSANYANG Jake Liang; Jun O. Liu; Zhendong Jin; Wei Zheng. Ya"
+bbP2 = bbP2 & "yın yılı: 2027. Yayın yeri veya dizin: Zenodo (CERN European"
+bbP2 = bbP2 & " Organization for Nuclear Research). Dijital nesne tanımlayı"
+bbP2 = bbP2 & "cısı: 10.5281/zenodo.21893337."
+bbP3 = "Bu sayfa Sağlık & Yaşam kategorisinde keşif ve kaynak göster"
+bbP3 = bbP3 & "me amacıyla hazırlanmış otomatik bir bibliyografik kayıttır."
+bbP3 = bbP3 & " Kategorinin tarama anahtarları arasında health, wellbeing, "
+bbP3 = bbP3 & "medicine yer alır. Çalışmanın yöntemi, örneklemi ve bulgular"
+bbP3 = bbP3 & "ı bu künye üzerinden çıkarılamaz; akademik kullanım öncesind"
+bbP3 = bbP3 & "e özgün yayını ve kaynak koşullarını inceleyin."
+bbDescription = "Sağlık & Yaşam alanında Broad-spectrum inhibition of diverse"
+bbDescription = bbDescription & " enveloped RNA viruses by the host-directed ZJ-101 analogue "
+bbDescription = bbDescription & "series başlıklı kaynak kaydı."
+%>
+<!--#include virtual="/head.asp" -->
+<!--#include virtual="/header.asp" -->
+<!--#include virtual="/asie.asp" -->
+<!--#include virtual="/center.asp" -->
+<!--#include virtual="/shorts.asp" -->
+<!--#include virtual="/footer.asp" -->

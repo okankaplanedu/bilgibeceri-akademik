@@ -1,0 +1,30 @@
+{
+  "title": "We Cannot Cede Control of Weapons to Artificial Intelligence",
+  "authors": "Kate G",
+  "year": "2077",
+  "doi": "10.1038/scientificamerican072077-axs4kzsdvehyqhomb7gkv",
+  "source_url": "https://doi.org/10.1038/scientificamerican072077-axs4kzsdvehyqhomb7gkv",
+  "provider_id": "10.1038/scientificamerican072077-axs4kzsdvehyqhomb7gkv",
+  "arxiv_id": "",
+  "provider_key": "crossref",
+  "provider": "Crossref",
+  "venue": "Scientific American",
+  "work_type": "journal-article",
+  "category_id": "teknoloji",
+  "category": "Teknoloji & Yapay Zekâ",
+  "context": "teknoloji, hesaplama ve yapay zekâ araştırmaları",
+  "query": "artificial intelligence",
+  "tokens": [
+    "artificial intelligence",
+    "technology",
+    "computing"
+  ],
+  "created_at": "2026-10-28T23:50:08Z",
+  "dedup_keys": [
+    "doi:10.1038/scientificamerican072077-axs4kzsdvehyqhomb7gkv",
+    "source:crossref:10.1038/scientificamerican072077-axs4kzsdvehyqhomb7gkv",
+    "title:b5fc0c592f9f17fcc7e19709"
+  ],
+  "id": "93d18e66cf69",
+  "path": "/arsiv/we-cannot-cede-control-of-weapons-to-artificial-intelligence-93d18e66cf69/default.asp"
+}

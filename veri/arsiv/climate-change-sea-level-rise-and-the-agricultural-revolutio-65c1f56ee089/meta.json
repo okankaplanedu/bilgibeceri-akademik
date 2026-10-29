@@ -1,0 +1,30 @@
+{
+  "title": "Climate change, sea level rise, and the agricultural revolution",
+  "authors": "Ridhika Mishra; Richard S. J. Tol",
+  "year": "2026",
+  "doi": "",
+  "source_url": "https://arxiv.org/abs/2610.37306v1",
+  "provider_id": "http://arxiv.org/abs/2610.37306v1",
+  "arxiv_id": "2610.37306v1",
+  "provider_key": "arxiv",
+  "provider": "arXiv",
+  "venue": "arXiv",
+  "work_type": "preprint",
+  "category_id": "cevre",
+  "category": "Çevre & Sürdürülebilirlik",
+  "context": "iklim, çevre ve sürdürülebilirlik araştırmaları",
+  "query": "climate change",
+  "tokens": [
+    "climate",
+    "environment",
+    "sustainability"
+  ],
+  "created_at": "2026-10-28T23:50:16Z",
+  "dedup_keys": [
+    "arxiv:2610.37306",
+    "source:arxiv:http://arxiv.org/abs/2610.37306v1",
+    "title:659b87408c0dea07f216f84f"
+  ],
+  "id": "65c1f56ee089",
+  "path": "/arsiv/climate-change-sea-level-rise-and-the-agricultural-revolutio-65c1f56ee089/default.asp"
+}

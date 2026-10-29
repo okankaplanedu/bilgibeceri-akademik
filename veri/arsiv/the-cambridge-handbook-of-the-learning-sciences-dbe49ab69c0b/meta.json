@@ -1,0 +1,30 @@
+{
+  "title": "The Cambridge Handbook of the Learning Sciences",
+  "authors": "",
+  "year": "2022",
+  "doi": "10.1017/9781108888295",
+  "source_url": "https://doi.org/10.1017/9781108888295",
+  "provider_id": "894faca4e9d4a4b83784d5d4768aeea58145905d",
+  "arxiv_id": "",
+  "provider_key": "semanticscholar",
+  "provider": "Semantic Scholar",
+  "venue": "",
+  "work_type": "Review",
+  "category_id": "egitim",
+  "category": "Eğitim & Öğrenme",
+  "context": "öğrenme süreçleri ve eğitim araştırmaları",
+  "query": "learning sciences",
+  "tokens": [
+    "learning",
+    "education",
+    "teaching"
+  ],
+  "created_at": "2026-10-28T23:50:06Z",
+  "dedup_keys": [
+    "doi:10.1017/9781108888295",
+    "source:semanticscholar:894faca4e9d4a4b83784d5d4768aeea58145905d",
+    "title:6eb7ea70bd1e6ac2ef77fed2"
+  ],
+  "id": "dbe49ab69c0b",
+  "path": "/arsiv/the-cambridge-handbook-of-the-learning-sciences-dbe49ab69c0b/default.asp"
+}

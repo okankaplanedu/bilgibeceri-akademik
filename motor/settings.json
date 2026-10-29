@@ -1,0 +1,82 @@
+{
+  "site_root": "../veri",
+  "contact_email": "",
+  "results_per_query_per_source": 2,
+  "token_query_limit": 1,
+  "max_new_per_run": 30,
+  "timeout_seconds": 18,
+  "pause_seconds": 0.7,
+  "sources": {
+    "openalex": true,
+    "crossref": true,
+    "arxiv": true,
+    "semanticscholar": true
+  },
+  "categories": [
+    {
+      "id": "egitim",
+      "name": "Eğitim & Öğrenme",
+      "context": "öğrenme süreçleri ve eğitim araştırmaları",
+      "tokens": [
+        "learning",
+        "education",
+        "teaching"
+      ],
+      "queries": [
+        "learning sciences"
+      ]
+    },
+    {
+      "id": "teknoloji",
+      "name": "Teknoloji & Yapay Zekâ",
+      "context": "teknoloji, hesaplama ve yapay zekâ araştırmaları",
+      "tokens": [
+        "artificial intelligence",
+        "technology",
+        "computing"
+      ],
+      "queries": [
+        "artificial intelligence"
+      ]
+    },
+    {
+      "id": "saglik",
+      "name": "Sağlık & Yaşam",
+      "context": "sağlık bilimleri ve yaşam üzerine çalışmalar",
+      "tokens": [
+        "health",
+        "wellbeing",
+        "medicine"
+      ],
+      "queries": [
+        "public health"
+      ]
+    },
+    {
+      "id": "cevre",
+      "name": "Çevre & Sürdürülebilirlik",
+      "context": "iklim, çevre ve sürdürülebilirlik araştırmaları",
+      "tokens": [
+        "climate",
+        "environment",
+        "sustainability"
+      ],
+      "queries": [
+        "climate change"
+      ]
+    },
+    {
+      "id": "toplum",
+      "name": "Toplum & Kültür",
+      "context": "toplum, kültür ve beşerî bilimler araştırmaları",
+      "tokens": [
+        "society",
+        "culture",
+        "social science"
+      ],
+      "queries": [
+        "social science"
+      ]
+    }
+  ]
+}
