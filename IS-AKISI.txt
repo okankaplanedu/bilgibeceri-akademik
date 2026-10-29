@@ -1,0 +1,68 @@
+name: Akademik kaynakları topla ve ASP paketi hazırla
+
+on:
+  workflow_dispatch:
+    inputs:
+      islem:
+        description: 'Önce test; sonra isteğe bağlı kaynak taraması ve paket'
+        required: true
+        type: choice
+        default: test
+        options:
+          - test
+          - paket
+  schedule:
+    # İstanbul saatiyle yaklaşık 06:23. Değişken açık değilse bu iş çalışmaz.
+    - cron: '23 3 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bilgibeceri-elle-paket
+  cancel-in-progress: false
+
+jobs:
+  hazirla:
+    if: ${{ github.ref == 'refs/heads/main' && (github.event_name != 'schedule' || vars.AUTO_COLLECT == 'true') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Depoyu al
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Python'u hazırla
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Güvenlik ve biçim testleri
+        run: |
+          python -m py_compile motor/generator.py scripts/paket_olustur.py
+          python -m unittest discover -s tests -v
+          python motor/generator.py check
+      - name: Akademik kaynakları tara ve ASP sayfalarını üret
+        if: ${{ github.event_name == 'schedule' || inputs.islem == 'paket' }}
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
+        run: python motor/generator.py run
+      - name: Canlı kataloğu yalnız oku ve indirilebilir paket hazırla
+        if: ${{ github.event_name == 'schedule' || inputs.islem == 'paket' }}
+        run: python scripts/paket_olustur.py
+      - name: Üretilen kayıtları sonraki taramalar için depoya kaydet
+        if: ${{ github.event_name == 'schedule' || inputs.islem == 'paket' }}
+        run: |
+          git add -- veri/arsiv veri/data/catalog.json veri/baseline-live.json
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Akademik kaynak verilerini güncelle"
+            git push origin HEAD:main
+          fi
+      - name: Elle yükleme paketini indirilebilir yap
+        if: ${{ github.event_name == 'schedule' || inputs.islem == 'paket' }}
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: BilgiBeceri-Elle-Yukleme-${{ github.run_number }}
+          path: paket-cikti/
+          if-no-files-found: error
+          retention-days: 14
